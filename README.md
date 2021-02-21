@@ -1,2 +1,2 @@
 # Analyst
-i suggest you download all files
+I suggest you download all files
